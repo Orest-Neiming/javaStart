@@ -15,7 +15,7 @@ public class main {
         int penis8 = x /= x + x;
         int penis9 = x = (x) + x;
         int penis10 = 20;
-        int penis12 = 40;
+        int penis12 = 30;
         // ghhghg
         System.out.println(penis + "\n" + penis2 + "\n" + penis3 + "\n" + penis4 + "\n" + penis5 + "\n" + penis6 + "\n" + penis7 + "\n" + penis8 + "\n" + penis9);
         System.out.println(penis10);
