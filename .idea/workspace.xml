@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc4754a0-67f1-4f73-94f6-01b7a68df2ad" name="Changes" comment="test commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fc4754a0-67f1-4f73-94f6-01b7a68df2ad" name="Changes" comment="test commit 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,14 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718879425949</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="test2 commit">
+      <option name="closed" value="true" />
+      <created>1718880554596</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718880554596</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="gggg commit" />
-    <MESSAGE value="test2 commit" />
     <MESSAGE value="test3 commit ggg" />
     <MESSAGE value="test3 commit fff" />
     <MESSAGE value="test commit number milion" />
@@ -232,6 +237,9 @@
     <MESSAGE value="test commit number three hundred dolars" />
     <MESSAGE value="test commit number three hundred euro" />
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="test2 commit" />
+    <MESSAGE value="test commit 4" />
+    <MESSAGE value="test commit 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit 5" />
   </component>
 </project>
