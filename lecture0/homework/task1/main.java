@@ -13,8 +13,10 @@ public class main {
         int penis5 = x = y - x++ * zov;
         int penis7 = x /= x;
         int penis8 = x /= x + x;
-        int penis9 = x = x / x + x;
+        int penis9 = x = (x) + x;
+        int penis10 = 20;
         // ghhghg
         System.out.println(penis + "\n" + penis2 + "\n" + penis3 + "\n" + penis4 + "\n" + penis5 + "\n" + penis6 + "\n" + penis7 + "\n" + penis8 + "\n" + penis9);
+        System.out.println(penis10);
     }
 }
