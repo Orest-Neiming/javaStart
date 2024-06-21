@@ -15,6 +15,6 @@ public class CodeTest {
         String txt = "Будь ласка, знайдіть місце, де зустрічається 'locate'!";
         System.out.println(txt.indexOf("locate")); // Виведе 7
         System.out.println("hello");
-        System.out.println("huuuuuuuuuuuuuuuuu");
+        System.out.println("huuuuuuuuuuuuuuuuuuuuuuuuuuu");
     }
 }
