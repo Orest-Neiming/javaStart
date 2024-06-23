@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc4754a0-67f1-4f73-94f6-01b7a68df2ad" name="Changes" comment="ffffffffffjjffjf">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc (2).xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs (2).xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace (2).xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sk/com/ymca/myCode/year2024/CodeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fc4754a0-67f1-4f73-94f6-01b7a68df2ad" name="Changes" comment="test_push">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +62,14 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.CodeTest.executor": "Run",
+    "Application.CycleBreakAndContinue.executor": "Run",
+    "Application.EndLessLoops.executor": "Run",
+    "Application.Facrotial.executor": "Run",
+    "Application.Parity.executor": "Run",
+    "Application.SumMin.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.UniversetyExems.executor": "Run",
+    "Application.While.executor": "Run",
     "Application.arithmeticAverage.executor": "Run",
     "Application.circle.executor": "Run",
     "Application.main.executor": "Run",
@@ -93,6 +93,19 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Parity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.com.ymca.javaStart.lecture2.homework.task2.Parity" />
+      <module name="javaStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.com.ymca.javaStart.lecture2.homework.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UniversetyExems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sk.com.ymca.javaStart.lecture2.homework.task1.UniversetyExems" />
       <module name="javaStart" />
@@ -106,8 +119,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.com.ymca.javaStart.lecture5.classwork.ex1.While" />
+      <module name="javaStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.com.ymca.javaStart.lecture5.classwork.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Parity" />
+        <item itemvalue="Application.While" />
         <item itemvalue="Application.UniversetyExems" />
       </list>
     </recent_temporary>
@@ -281,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718881170470</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="test_push">
+      <option name="closed" value="true" />
+      <created>1719131315054</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1719131315054</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,7 +325,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -319,6 +367,7 @@
     <MESSAGE value="ffffffffffffffjf" />
     <MESSAGE value="ffffffffffjfffjf" />
     <MESSAGE value="ffffffffffjjffjf" />
-    <option name="LAST_COMMIT_MESSAGE" value="ffffffffffjjffjf" />
+    <MESSAGE value="test_push" />
+    <option name="LAST_COMMIT_MESSAGE" value="test_push" />
   </component>
 </project>
