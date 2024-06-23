@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc4754a0-67f1-4f73-94f6-01b7a68df2ad" name="Changes" comment="test_push">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,9 @@
     "Application.CycleBreakAndContinue.executor": "Run",
     "Application.EndLessLoops.executor": "Run",
     "Application.Facrotial.executor": "Run",
+    "Application.LogicOperations.executor": "Run",
     "Application.Parity.executor": "Run",
+    "Application.Premium.executor": "Run",
     "Application.SumMin.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.UniversetyExems.executor": "Run",
